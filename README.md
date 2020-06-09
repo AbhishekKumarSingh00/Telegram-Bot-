@@ -3,8 +3,8 @@ I made a Telegram Bot name AbhishekBot(@abhishek210100_bot). It provide news of 
 
 # ScreenShots
 ![Image of adduser](https://github.com/AbhishekKumarSingh00/online-shopping-system/blob/master/Keyboard.png)
-![Image of adduser](https://github.com/AbhishekKumarSingh00/online-shopping-system/blob/master/Sports.png)
-![Image of adduser](https://github.com/AbhishekKumarSingh00/online-shopping-system/blob/master/sticker.png)
+![Image of adduser](https://github.com/AbhishekKumarSingh00/Telegram-Bot-/blob/master/Sports.png)
+![Image of adduser](https://github.com/AbhishekKumarSingh00/Telegram-Bot-/blob/master/sticker.png)
 
 # Requirements
 Refer to requirements.txt
